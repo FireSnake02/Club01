@@ -1,0 +1,6 @@
+C:\Users\os\source\repos\社团\Model\bin\Release\Model.dll
+C:\Users\os\source\repos\社团\Model\bin\Release\Model.pdb
+C:\Users\os\source\repos\社团\Model\obj\Release\Model.csproj.AssemblyReference.cache
+C:\Users\os\source\repos\社团\Model\obj\Release\Model.csproj.CoreCompileInputs.cache
+C:\Users\os\source\repos\社团\Model\obj\Release\Model.dll
+C:\Users\os\source\repos\社团\Model\obj\Release\Model.pdb
